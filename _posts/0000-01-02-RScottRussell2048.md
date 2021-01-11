@@ -2,7 +2,7 @@
 
 layout: slide
 
----
+REPLACING THIS LINE WITH SOMETHING GNU! =:-)
 
 My text goes here very nicely, thank you.
 
